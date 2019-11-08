@@ -4,7 +4,7 @@
 # Copyright (C) 2019 Atul-Kadian
 
 class Creds(object):
-        TOKEN = "881205921:AAF5QAv-2klD4oXb436E5EBvbn1agPzYzB8"
-        CLIENT_ID = "6969696969-gEtItFrOmGoOgLeClOuDcOnSoLe.apps.googleusercontent.com"
-        CLIENT_SECRET = "gEtItFrOmGoOgLeClOuDcOnSoLe"
+        TOKEN = "1028792254:AAFBdqhkZIjmKPhL9x4qxWhUQzvANAWlqHA"
+        CLIENT_ID = "731378623902-8lk4ho5iea0pgei4ddd6518rq1op6utr.apps.googleusercontent.com"
+        CLIENT_SECRET = "73AzYzqMnlNFtv6FeVuIEsV3"
 
